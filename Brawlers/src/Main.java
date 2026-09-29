@@ -28,5 +28,8 @@ public class Main {
 //                        3.  USUARIO 1 VS 1.
 //                            4.  ... Ya me he aburrido de seguir el flujo, ya seguiré ordenándolo.
 
+                final Scanner sc = new Scanner(System.in);
+        final List<Brawler> brawlers = new ArrayList<>(); // < --- Lista para guardar los Brawlers.......
+
     }
 }
